@@ -522,7 +522,10 @@ img{
 .skills__react{
     width: 20%;
 }
-
+skills__sql{
+    width: 60%;
+    
+}
 
 .skills__php{
     width: 80%;
